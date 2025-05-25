@@ -41,7 +41,7 @@ solar_system_esp8266.ino
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/SolarEnergyManagement.git
+git clone https://github.com/chicc12/SolarEnergyManagement.git
 
 ```
 2. Open the Arduino IDE and install the necessary libraries for ESP8266.
@@ -56,7 +56,7 @@ git clone https://github.com/your_username/SolarEnergyManagement.git
 Contributions are welcome! Please fork the repository and submit a pull request for review.
 
 ##  Author(s)
-- Vinh Ky ([GitHub Profile](https://github.com/your_username))
+- chicc12 ([GitHub Profile](https://github.com/chicc12))
 
 ##  License
 Dự án này được cấp phép theo Giấy phép MIT - xem file `LICENSE` để biết chi tiết.
